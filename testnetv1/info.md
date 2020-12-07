@@ -51,6 +51,9 @@ node on the network is live.
     --bridge <TBD> \
     --rpc http://solana-host:8899 \     # <-- URL of your Solana validator RPC server
     --ws ws://solana-devnet:8900 \      # <-- Websocket path to your Solana validator PubSub port (RPC port +1)
-    --keypair /path/to/feepayer.key \   # <-- Keypair of a Solana fee payer account with ~10 SOL in it
+    --keypair /path/to/feepayer.json \  # <-- Keypair of a Solana fee payer account with ~10 SOL in it
     --socket /run/guardiand/agent.socket
 ```
+
+There's a key with a couple thousand SOL in this folder - you can use it to transfer 10 SOL to your own fee account.
+We want to test the fee subsidization logic the same way as on mainnet, so please stick with that range.
