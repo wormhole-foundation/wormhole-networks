@@ -22,3 +22,11 @@ Connected chain contracts:
 |--------------------|--------------------------|
 | Ethereum Goerli    | `<TBD>`                  |
 | Solana Tour de Sol | `<TBD>`                  |
+
+## Guardian set
+
+Current generation: **0**, containing only the Certus One bootstrap node with the
+address `0x8b1c9eFA61eBF66Fa1a6deDCF46fb1e37708ce5c`.
+
+See [v1.prototext](guardianset/v1.prototext) for the first guardian set update that will be executed once everyone's
+node on the network is live.
