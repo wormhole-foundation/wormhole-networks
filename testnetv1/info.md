@@ -36,6 +36,8 @@ node on the network is live.
 
 ## Example command line options
 
+Refer to the [operations guide](https://github.com/certusone/wormhole/blob/master/docs/operations.md) on how to set up a node.
+
 ```bash
 /usr/local/bin/guardiand bridge \
     --bootstrap "/dns4/wormhole-testnet-bootstrap.certus.one/udp/8999/quic/p2p/12D3KooWH3VP44t12yKQXrPfMQVKEqSHnk5GTN3RCSqNoakAkLCq"
