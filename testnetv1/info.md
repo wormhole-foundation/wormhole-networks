@@ -50,7 +50,7 @@ node on the network is live.
 /usr/local/bin/guardiand-solana-agent \
     --bridge <TBD> \
     --rpc http://solana-host:8899 \     # <-- URL of your Solana validator RPC server
-    --ws ws://solana-devnet:8900 \      # <-- Websocket path to your Solana validator PubSub port
+    --ws ws://solana-devnet:8900 \      # <-- Websocket path to your Solana validator PubSub port (RPC port +1)
     --keypair /path/to/feepayer.key \   # <-- Keypair of a Solana fee payer account with ~10 SOL in it
     --socket /run/guardiand/agent.socket
 ```
