@@ -44,60 +44,54 @@ guardians:  {
 
 # idx = 7
 guardians:  {
-  pubkey:  "<missing>"
-  name:    "Terra"
-}
-
-# idx = 8
-guardians:  {
   pubkey:  "0xaF808a559156DFFa64b5032C6E97742b60420554"
   name:    "Staking Fund"
 }
 
-# idx = 9
+# idx = 8
 guardians:  {
   pubkey:  "0xF30C810D73721B9AD64FcCd182cbcb5de9286bE1"
   name:    "01Node"
 }
 
-# idx = 10
-guardians:  {
-  pubkey:  "0x00dA8a45BC3ea40a07709889470Bdc010E44Cc20"
-  name:    "stake.fish"
-}
-
-# idx = 11
+# idx = 9
 guardians:  {
   pubkey:  "0xCD522e3AA0aBa7Bd43C7762Ffa2B93df7d93c949"
   name:    "Morphism"
 }
 
-# idx = 12
+# idx = 10
 guardians:  {
   pubkey:  "0xa7b2037D3e1830731b31ca13f65778774b12c694"
   name:    "Hashquark"
 }
 
-# idx = 13
+# idx = 11
 guardians:  {
   pubkey:  "0x2895Ae701c799b6B8328bab664D10f5B299b8c18"
   name:    "Melea Trust"
 }
 
-# idx = 14
+# idx = 12
 guardians:  {
   pubkey:  "0x82b425593e41008ac212E355B67C589bbA27137d"
   name:    "Moonlet"
 }
 
-# idx = 15
+# idx = 13
 guardians:  {
   pubkey:  "0x40d7e9406953E1BEbf7f409039954F9bd5E63b0b"
   name:    "Forbole"
 }
 
-# idx = 16
+# idx = 14
 guardians:  {
   pubkey:  "0x64cabfBE67B853be3546b14E86E55c7BCf00413B"
   name:    "Jump Trading"
+}
+
+# idx = 15
+guardians:  {
+  pubkey:  "0xbeC984Cb075a1fe20991619C5c5c081F6c83Bf8B"
+  name:    "Smith MCF"
 }
