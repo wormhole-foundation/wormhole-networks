@@ -86,7 +86,7 @@ git checkout 6d555789d6ad45aa52e011cc6b2ceea2482c23ef  # v1.1.1
 
 docker build -t wormhole-contract .
 docker create --name wormhole-contract wormhole-contract
-docker cp wormhole-contract:/opt/solana/deps/spl_bridge.so wormhole.sol
+docker cp wormhole-contract:/opt/solana/deps/spl_bridge.so wormhole.so
 docker rm wormhole-contract
 
 sha256sum wormhole.so
