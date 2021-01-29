@@ -84,7 +84,7 @@ all dependencies to achieve a reproducible build:
 cd wormhole/solana
 git checkout 6d555789d6ad45aa52e011cc6b2ceea2482c23ef  # v1.1.1
 
-docker build -t wormhole-contract .
+DOCKER_BUILDKIT=1 docker build -t wormhole-contract .
 docker create --name wormhole-contract wormhole-contract
 docker cp wormhole-contract:/opt/solana/deps/spl_bridge.so wormhole.so
 docker rm wormhole-contract
