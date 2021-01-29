@@ -1,4 +1,4 @@
-timestamp:  1611776451
+timestamp:  1611883816
 
 # idx = 0
 guardians:  {
@@ -112,4 +112,10 @@ guardians:  {
 guardians:  {
   pubkey:  "0x9F09C8E49757486e98887b49373620290D963729"
   name:    "syncnode"
+}
+
+# idx = 19
+guardians:  {
+  pubkey:  "0xe263fDFeDF000121046578253312861e83f28bD5"
+  name:    "inotel"
 }
