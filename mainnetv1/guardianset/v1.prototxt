@@ -86,7 +86,7 @@ guardians:  {
 
 # idx = 14
 guardians:  {
-  pubkey:  "MISSING"
+  pubkey:  "0xDe2E046412ebcc6563831AA7A9B2104E0c58B351"
   name:    "Jump Trading"
 }
 
