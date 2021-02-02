@@ -98,23 +98,17 @@ guardians:  {
 
 # idx = 16
 guardians:  {
-  pubkey:  "0x0cF5C15f98c21202796d74aBbCA9259c68c1D264"
-  name:    "w3m"
-}
-
-# idx = 17
-guardians:  {
   pubkey:  "0xE3727bBc8342F631eC9A20d8A6FB44fe97C6dFcd"
   name:    "Chainode Tech"
 }
 
-# idx = 18
+# idx = 17
 guardians:  {
   pubkey:  "0x9F09C8E49757486e98887b49373620290D963729"
   name:    "syncnode"
 }
 
-# idx = 19
+# idx = 18
 guardians:  {
   pubkey:  "0xe263fDFeDF000121046578253312861e83f28bD5"
   name:    "inotel"
