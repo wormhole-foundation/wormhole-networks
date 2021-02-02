@@ -82,7 +82,7 @@ all dependencies to achieve a reproducible build:
 
 ```bash
 cd wormhole/solana
-git checkout 6d555789d6ad45aa52e011cc6b2ceea2482c23ef  # v1.1.1
+git checkout 8478735ea7525043635524a62db2751e59d2bc38
 
 DOCKER_BUILDKIT=1 docker build -t wormhole-contract .
 docker create --name wormhole-contract wormhole-contract
@@ -92,7 +92,7 @@ docker rm wormhole-contract
 sha256sum wormhole.so
 ```
 
-The checksum should be `6524eafd9053cc83b64ce72991b736128893e1fad6012cdf19ec62ebc01cacfc`.
+The checksum should be `6e9cc716939e94697a712b529b223c4a843f45fbda9bcabf93349f86557dca97`.
 
 Now, compare it with the contract deployed on-chain. First, get the program account:
 
@@ -129,7 +129,7 @@ Strip the metadata from the account to get the raw binary:
 
 ```bash
 solana account 9W9hLqpqjncrV1iYf2D3dt6WQMthM2SBBQ9Q5Rr6ueLn --output json | \
-    jq -r .account.data[0] | base64 -d | tail -c +46 | head -c -37 > wormhole-onchain.so
+    jq -r .account.data[0] | base64 -d | tail -c +46 | head -c -557 > wormhole-onchain.so
 
 sha256sum wormhole-onchain.so
 ```
