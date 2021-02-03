@@ -28,11 +28,12 @@ Wormhole revision that they were built from.
 
 ## Guardian set
 
-Current generation: **0**, containing only the Certus One bootstrap node with the
-address `0x7580aA7e036dC199bF0E152C71004716AE0AA747`.
+Current generation: **1** ([v1.prototext](guardianset/v1.prototxt)), with 19 decentralized guardians.
 
-See [v1.prototext](guardianset/v1.prototxt) for the first guardian set update that will be executed once everyone's
-node on the network is live.
+| Network  | Guardian Set initialization |
+|----------|-------------|
+| Solana   | [`3mQpDW2ofC3YpAsDzP4w5FNVzYRSmJjKoio4fcapL7xDAdaatvvKXCzrd2cfHiVNwYZs4hH1ePZ9Hep4zaasL27L`](https://explorer.solana.com/tx/3mQpDW2ofC3YpAsDzP4w5FNVzYRSmJjKoio4fcapL7xDAdaatvvKXCzrd2cfHiVNwYZs4hH1ePZ9Hep4zaasL27L) |
+| Ethereum | [`0x833e7bec034d9904713d6a7dc13d197ec41af2d0611122603289a1e69ae72c43`](https://etherscan.io/tx/0x833e7bec034d9904713d6a7dc13d197ec41af2d0611122603289a1e69ae72c43) |
 
 ## Example command line options
 
