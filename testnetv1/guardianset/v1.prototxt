@@ -1,97 +1,117 @@
-timestamp:  1605744545
+timestamp:  1612465182
 
-# idx = 0
-guardians:  {
-  pubkey:  "0xd0f017B48d0ce29fB31dAde2F1413C93F73913D9"
-  name:    "P2P Validator"
-}
+guardian_set: {
+  # idx = 0
+  guardians:  {
+    pubkey:  "0xd0f017B48d0ce29fB31dAde2F1413C93F73913D9"
+    name:    "P2P Validator"
+  }
 
-# idx = 1
-guardians:  {
-  pubkey:  "0xacDdB005a6FE071E7955c2311241f03F6eC51b63"
-  name:    "Everstake"
-}
+  # idx = 1
+  guardians:  {
+    pubkey:  "0xacDdB005a6FE071E7955c2311241f03F6eC51b63"
+    name:    "Everstake"
+  }
 
-# idx = 2
-guardians:  {
-  pubkey:  "0x52238D2F89CBf5DaD246309B7B90e7D200150614"
-  name:    "Dokia Capital"
-}
+  # idx = 2
+  guardians:  {
+    pubkey:  "0x52238D2F89CBf5DaD246309B7B90e7D200150614"
+    name:    "Dokia Capital"
+  }
 
-# idx = 3
-guardians:  {
-  pubkey:  "0xAF3FfcE9237eb9E0DE35a13DEA83AD53de3025E2"
-  name:    "Staking Facilities"
-}
+  # idx = 3
+  guardians:  {
+    pubkey:  "0xAF3FfcE9237eb9E0DE35a13DEA83AD53de3025E2"
+    name:    "Staking Facilities"
+  }
 
-# idx = 4
-guardians:  {
-  pubkey:  "0x9E5325D192D2A3eEfc383C8c528a471E27252d34"
-  name:    "Chorus One"
-}
+  # idx = 4
+  guardians:  {
+    pubkey:  "0x9E5325D192D2A3eEfc383C8c528a471E27252d34"
+    name:    "Chorus One"
+  }
 
-# idx = 5
-guardians:  {
-  pubkey:  "0x8b1c9eFA61eBF66Fa1a6deDCF46fb1e37708ce5c"
-  name:    "Certus One"
-}
+  # idx = 5
+  guardians:  {
+    pubkey:  "0x8b1c9eFA61eBF66Fa1a6deDCF46fb1e37708ce5c"
+    name:    "Certus One"
+  }
 
-# idx = 6
-guardians:  {
-  pubkey:  "0x50Cb498bE4370CEa95d4977D923d60a6ADfd8E57"
-  name:    "Chainlayer"
-}
+  # idx = 6
+  guardians:  {
+    pubkey:  "0x50Cb498bE4370CEa95d4977D923d60a6ADfd8E57"
+    name:    "Chainlayer"
+  }
 
-# idx = 7
-guardians:  {
-  pubkey:  "0xaF808a559156DFFa64b5032C6E97742b60420554"
-  name:    "Staking Fund"
-}
+  # idx = 7
+  guardians:  {
+    pubkey:  "0xaF808a559156DFFa64b5032C6E97742b60420554"
+    name:    "Staking Fund"
+  }
 
-# idx = 8
-guardians:  {
-  pubkey:  "0xF30C810D73721B9AD64FcCd182cbcb5de9286bE1"
-  name:    "01Node"
-}
+  # idx = 8
+  guardians:  {
+    pubkey:  "0xF30C810D73721B9AD64FcCd182cbcb5de9286bE1"
+    name:    "01Node"
+  }
 
-# idx = 9
-guardians:  {
-  pubkey:  "0xCD522e3AA0aBa7Bd43C7762Ffa2B93df7d93c949"
-  name:    "Morphism"
-}
+  # idx = 9
+  guardians:  {
+    pubkey:  "0xCD522e3AA0aBa7Bd43C7762Ffa2B93df7d93c949"
+    name:    "Morphism"
+  }
 
-# idx = 10
-guardians:  {
-  pubkey:  "0xa7b2037D3e1830731b31ca13f65778774b12c694"
-  name:    "Hashquark"
-}
+  # idx = 10
+  guardians:  {
+    pubkey:  "0xa7b2037D3e1830731b31ca13f65778774b12c694"
+    name:    "Hashquark"
+  }
 
-# idx = 11
-guardians:  {
-  pubkey:  "0x2895Ae701c799b6B8328bab664D10f5B299b8c18"
-  name:    "Melea Trust"
-}
+  # idx = 11
+  guardians:  {
+    pubkey:  "0x2895Ae701c799b6B8328bab664D10f5B299b8c18"
+    name:    "Melea Trust"
+  }
 
-# idx = 12
-guardians:  {
-  pubkey:  "0x82b425593e41008ac212E355B67C589bbA27137d"
-  name:    "Moonlet"
-}
+  # idx = 12
+  guardians:  {
+    pubkey:  "0x82b425593e41008ac212E355B67C589bbA27137d"
+    name:    "Moonlet"
+  }
 
-# idx = 13
-guardians:  {
-  pubkey:  "0x40d7e9406953E1BEbf7f409039954F9bd5E63b0b"
-  name:    "Forbole"
-}
+  # idx = 13
+  guardians:  {
+    pubkey:  "0x40d7e9406953E1BEbf7f409039954F9bd5E63b0b"
+    name:    "Forbole"
+  }
 
-# idx = 14
-guardians:  {
-  pubkey:  "0x64cabfBE67B853be3546b14E86E55c7BCf00413B"
-  name:    "Jump Trading"
-}
+  # idx = 14
+  guardians:  {
+    pubkey:  "0x64cabfBE67B853be3546b14E86E55c7BCf00413B"
+    name:    "Jump Trading"
+  }
 
-# idx = 15
-guardians:  {
-  pubkey:  "0xbeC984Cb075a1fe20991619C5c5c081F6c83Bf8B"
-  name:    "Smith MCF"
+  # idx = 15
+  guardians:  {
+    pubkey:  "0xbeC984Cb075a1fe20991619C5c5c081F6c83Bf8B"
+    name:    "Smith MCF"
+  }
+
+  # idx = 16
+  guardians:  {
+    pubkey:  "0x916Cbd15d2dF7BebaF243cfdBb85d1d5e453644D"
+    name:    "Chainode Tech"
+  }
+
+  # idx = 17
+  guardians:  {
+    pubkey:  "MISSING"
+    name:    "syncnode"
+  }
+
+  # idx = 18
+  guardians:  {
+    pubkey:  "MISSING"
+    name:    "Inotel"
+  }
 }
