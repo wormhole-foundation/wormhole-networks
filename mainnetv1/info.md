@@ -18,10 +18,11 @@ Gossip bootstrap node:
 
 Connected chain contracts:
 
-| Network             | Bridge contract addresss                       |
-|---------------------|------------------------------------------------|
-| Ethereum Mainnet    | [`0xf92cD566Ea4864356C5491c177A430C222d7e678`](https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678) (verified on Etherscan) |
-| Solana Mainnet Beta | [`WormT3McKhFJ2RkiGpdw9GKvNCrB2aB54gb2uV9MfQC`](https://explorer.solana.com/address/WormT3McKhFJ2RkiGpdw9GKvNCrB2aB54gb2uV9MfQC?cluster=mainnet-beta) |
+| Network                      | Bridge contract addresss                       |
+|------------------------------|------------------------------------------------|
+| Ethereum Mainnet (Bridge)    | [`0xf92cD566Ea4864356C5491c177A430C222d7e678`](https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678) (verified on Etherscan) |
+| Ethereum Mainnet (Token)     | [`0x9A5e27995309a03f8B583feBdE7eF289FcCdC6Ae`](https://etherscan.io/address/0x9A5e27995309a03f8B583feBdE7eF289FcCdC6Ae) (verified on Etherscan) |
+| Solana Mainnet Beta          | [`WormT3McKhFJ2RkiGpdw9GKvNCrB2aB54gb2uV9MfQC`](https://explorer.solana.com/address/WormT3McKhFJ2RkiGpdw9GKvNCrB2aB54gb2uV9MfQC?cluster=mainnet-beta) |
 
 A copy of the contract binaries that were deployed can be found in [artifacts/](artifacts), along with a pointer to the
 Wormhole revision that they were built from.
