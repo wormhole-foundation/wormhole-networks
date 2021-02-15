@@ -20,11 +20,12 @@ Gossip bootstrap node:
 
 Connected chain contracts:
 
-| Network            | Bridge contract addresss                       |
-|--------------------|------------------------------------------------|
-| Ethereum Goerli    | [`0x251bBCD91E84098509beaeAfF0B9951859af66D3`](https://goerli.etherscan.io/address/0x251bBCD91E84098509beaeAfF0B9951859af66D3) |
-| Solana Tour de Sol | [`5gQf5AUhAgWYgUCt9ouShm9H7dzzXUsLdssYwe5krKhg`](https://explorer.solana.com/address/5gQf5AUhAgWYgUCt9ouShm9H7dzzXUsLdssYwe5krKhg?cluster=testnet) |
-| Terra Tequila-0004 | [`terra176ckj5gu5vc704033wlm87avrem83pa4vx6c4p`](https://finder.terra.money/tequila-0004/address/terra176ckj5gu5vc704033wlm87avrem83pa4vx6c4p) |
+| Network                   | Bridge contract addresss                       |
+|---------------------------|------------------------------------------------|
+| Ethereum Goerli (Bridge)  | [`0x251bBCD91E84098509beaeAfF0B9951859af66D3`](https://goerli.etherscan.io/address/0x251bBCD91E84098509beaeAfF0B9951859af66D3) |
+| Ethereum Goerli (Token)   | [`0xE39f0b145C0aF079B214c5a8840B2B01eA14794c`](https://goerli.etherscan.io/address/0xE39f0b145C0aF079B214c5a8840B2B01eA14794c) |
+| Solana Tour de Sol        | [`5gQf5AUhAgWYgUCt9ouShm9H7dzzXUsLdssYwe5krKhg`](https://explorer.solana.com/address/5gQf5AUhAgWYgUCt9ouShm9H7dzzXUsLdssYwe5krKhg?cluster=testnet) |
+| Terra Tequila-0004        | [`terra176ckj5gu5vc704033wlm87avrem83pa4vx6c4p`](https://finder.terra.money/tequila-0004/address/terra176ckj5gu5vc704033wlm87avrem83pa4vx6c4p) |
 
 A copy of the contract binaries that were deployed can be found in [artifacts/](artifacts), along with a pointer to the
 Wormhole revision that they were built from.
