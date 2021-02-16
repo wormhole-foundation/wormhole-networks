@@ -111,7 +111,7 @@ guardian_set: {
 
   # idx = 18
   guardians:  {
-    pubkey:  "MISSING"
+    pubkey:  "0x775AC506dfF9b575136B0D850f129Da4c449FDb4"
     name:    "Inotel"
   }
 }
