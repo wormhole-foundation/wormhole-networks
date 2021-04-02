@@ -25,7 +25,7 @@ Connected chain contracts:
 | Ethereum Goerli (Bridge)  | [`0x251bBCD91E84098509beaeAfF0B9951859af66D3`](https://goerli.etherscan.io/address/0x251bBCD91E84098509beaeAfF0B9951859af66D3) |
 | Ethereum Goerli (Token)   | [`0xE39f0b145C0aF079B214c5a8840B2B01eA14794c`](https://goerli.etherscan.io/address/0xE39f0b145C0aF079B214c5a8840B2B01eA14794c) |
 | Solana Tour de Sol        | [`5gQf5AUhAgWYgUCt9ouShm9H7dzzXUsLdssYwe5krKhg`](https://explorer.solana.com/address/5gQf5AUhAgWYgUCt9ouShm9H7dzzXUsLdssYwe5krKhg?cluster=testnet) |
-| Terra Tequila-0004        | [`terra176ckj5gu5vc704033wlm87avrem83pa4vx6c4p`](https://finder.terra.money/tequila-0004/address/terra176ckj5gu5vc704033wlm87avrem83pa4vx6c4p) |
+| Terra Tequila-0004        | [`terra18dxnzu8w9dfss3ktetr43p9kuhcjnan8p30puw`](https://finder.terra.money/tequila-0004/address/terra176ckj5gu5vc704033wlm87avrem83pa4vx6c4p) |
 
 A copy of the contract binaries that were deployed can be found in [artifacts/](artifacts), along with a pointer to the
 Wormhole revision that they were built from.
@@ -60,7 +60,7 @@ Refer to the [operations guide](https://github.com/certusone/wormhole/blob/maste
     --terraWS wss://terra-node.example.com:26657/websocket \             # <-- Terra node websocket URI
     --terraLCD https://terra-lcd.example.com:1317 \                      # <-- Terra LCD node HTTP URI
     --terraChainID "tequila-0004" \
-    --terraContract "terra176ckj5gu5vc704033wlm87avrem83pa4vx6c4p" \
+    --terraContract "terra18dxnzu8w9dfss3ktetr43p9kuhcjnan8p30puw" \
     --terraKey /tmp/terra.key                                            # <-- path to mnemonic key for the Terra transaction fee payer
 ```
 
