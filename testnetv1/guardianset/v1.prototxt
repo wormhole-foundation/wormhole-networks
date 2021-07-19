@@ -114,4 +114,10 @@ guardian_set: {
     pubkey:  "0x775AC506dfF9b575136B0D850f129Da4c449FDb4"
     name:    "Inotel"
   }
+  
+  # idx = 19
+  guardians:  {
+    pubkey:  "0x40C029E0BF4e00894878bC38E4C254509fc1f35f"
+    name:    "Figment"
+  }
 }
