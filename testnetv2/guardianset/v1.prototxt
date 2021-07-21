@@ -6,4 +6,9 @@ guardian_set: {
     pubkey:  "0x13947Bd48b18E53fdAeEe77F3473391aC727C638"
     name:    "Certus One"
   }
+
+  guardians:  {
+    pubkey:  "0xB86020cF1262AA4dd5572Af76923E271169a2CA7"
+    name:    "Figment"
+  }
 }
