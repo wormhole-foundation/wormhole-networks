@@ -31,4 +31,8 @@ guardian_set: {
     pubkey:  "0x1937617fE1eD801fBa14Bd8BB9EDEcBA7A942FFe"
     name:    "01Node"
   }
+  guardians:  {
+    pubkey:  "0x9475b8D45DdE53614d92c779787C27fE2ef68752"
+    name:    "Chainlayer"
+  }
 }
