@@ -24,6 +24,10 @@ guardian_set: {
     name:    "ChainodeTech"
   }
   guardians:  {
+    pubkey:  "0xB86020cF1262AA4dd5572Af76923E271169a2CA7"
+    name:    "Figment"
+  }
+  guardians:  {
     pubkey:  "0x1937617fE1eD801fBa14Bd8BB9EDEcBA7A942FFe"
     name:    "01Node"
   }
