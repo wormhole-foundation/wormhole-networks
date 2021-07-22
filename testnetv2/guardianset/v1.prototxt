@@ -23,4 +23,8 @@ guardian_set: {
     pubkey:  "0x9C40c4052A3092AfB8C99B985fcDfB586Ed19c98"
     name:    "ChainodeTech"
   }
+  guardians:  {
+    pubkey:  "0x1937617fE1eD801fBa14Bd8BB9EDEcBA7A942FFe"
+    name:    "01Node"
+  }
 }
