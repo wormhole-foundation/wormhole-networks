@@ -7,3 +7,8 @@ guardian_set: {
     name:    "Certus One"
   }
 }
+guardians:  {
+    pubkey:  "0xF18AbBac073741DD0F002147B735Ff642f3D113F"
+    name:    “DokiaCapital”
+  }
+}
