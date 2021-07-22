@@ -39,4 +39,8 @@ guardian_set: {
     pubkey:  "0x15A53B22c28AbC7B108612146B6aAa4a537bA305"
     name:    "Forbole"
   }
+  guardians:  {
+    pubkey:  "0x63842657C7aC7e37B04FBE76b8c54EFe014D04E1"
+    name:    "Syncnode"
+  }
 }
