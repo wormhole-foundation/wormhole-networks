@@ -31,4 +31,8 @@ guardian_set: {
     pubkey:  "0x1937617fE1eD801fBa14Bd8BB9EDEcBA7A942FFe"
     name:    "01Node"
   }
+  guardians:  {
+    pubkey:  "0x15A53B22c28AbC7B108612146B6aAa4a537bA305"
+    name:    "Forbole"
+  }
 }
