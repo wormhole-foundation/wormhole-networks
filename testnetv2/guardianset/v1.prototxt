@@ -19,4 +19,8 @@ guardian_set: {
     pubkey:  "0x9e4EC2D92af8602bCE74a27F99A836f93C4a31E4"
     name:    "Inotel"
   }
+  guardians:  {
+    pubkey:  "0x9C40c4052A3092AfB8C99B985fcDfB586Ed19c98"
+    name:    "ChainodeTech"
+  }
 }
