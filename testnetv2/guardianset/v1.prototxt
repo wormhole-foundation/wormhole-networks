@@ -15,4 +15,8 @@ guardian_set: {
     pubkey:  "0x9925A94DC043D0803f8ef502D2dB15cAc9e02D76"
     name:    "Staking Fund"
   }
+  guardians:  {
+    pubkey:  "0x9e4EC2D92af8602bCE74a27F99A836f93C4a31E4"
+    name:    "Inotel"
+  }
 }
