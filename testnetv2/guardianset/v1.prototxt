@@ -35,4 +35,8 @@ guardian_set: {
     pubkey:  "0x15A53B22c28AbC7B108612146B6aAa4a537bA305"
     name:    "Forbole"
   }
+  guardians:  {
+    pubkey:  "0x9C40c4052A3092AfB8C99B985fcDfB586Ed19c98"
+    name:    "ChainodeTech"
+  }
 }
