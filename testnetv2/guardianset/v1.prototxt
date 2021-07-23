@@ -47,4 +47,8 @@ guardian_set: {
     pubkey:  "0x948ca1bBF4B858DF1A505b4C69c5c61bD95A12Bd"
     name:    "MCF"
   }
+  guardians:  {
+    pubkey:  "0xA6923e2259F8B5541eD18e410b8DdEE618337ff0"
+    name:    "MoonletWallet"
+  }
 }
