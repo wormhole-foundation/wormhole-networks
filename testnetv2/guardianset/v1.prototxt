@@ -43,7 +43,7 @@ guardian_set: {
     pubkey:  "0x63842657C7aC7e37B04FBE76b8c54EFe014D04E1"
     name:    "Syncnode"
   }
-  guardians:  {    
+  guardians:  {
     pubkey:  "0x948ca1bBF4B858DF1A505b4C69c5c61bD95A12Bd"
     name:    "MCF"
   }
