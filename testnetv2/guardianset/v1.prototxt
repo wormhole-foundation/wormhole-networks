@@ -59,4 +59,8 @@ guardian_set: {
     pubkey:  "0xeB15bCF2ae4f957012330B4741ecE3242De96184"
     name:    "Chorus One"
   }
+  guardians: {
+    pubkey:  "0x841f499Ba89a6a8E9dD273BAd82Beb175094E5d7"
+    name:    "HashQuark"
+  }
 }
