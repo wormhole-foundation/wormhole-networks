@@ -56,7 +56,7 @@ guardian_set: {
     name:    "Staking Facilities"
   }
   guardians: {
-    pubkey: "0xeB15bCF2ae4f957012330B4741ecE3242De96184"
-    name: "Chorus One"
+    pubkey:  "0xeB15bCF2ae4f957012330B4741ecE3242De96184"
+    name:    "Chorus One"
   }
 }
