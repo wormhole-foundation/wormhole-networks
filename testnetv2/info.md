@@ -10,7 +10,7 @@ This Wormhole testnet connects the following chains:
 
 - Binance Smart Chain (mainnet, there's no testnet).
 
-It runs the [v2.1.0](https://github.com/certusone/wormhole/releases/tag/v2.1.0) guardiand reference implementation.
+It runs the [v2.1.1](https://github.com/certusone/wormhole/releases/tag/v2.1.1) guardiand reference implementation.
 
 ## Important differences from v2
 
