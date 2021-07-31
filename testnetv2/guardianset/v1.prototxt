@@ -71,5 +71,9 @@ guardian_set: {
     pubkey:  "0x841f499Ba89a6a8E9dD273BAd82Beb175094E5d7"
     name:    "HashQuark"
   }
+  guardians: {
+    pubkey:  "0xf5F2b82576e6CA17965dee853d08bbB471FA2433"
+    name:    "P2P.ORG Validator"
+  }
 }
 
