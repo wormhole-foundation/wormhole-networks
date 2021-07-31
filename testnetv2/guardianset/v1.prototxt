@@ -52,6 +52,10 @@ guardian_set: {
     name:    "MoonletWallet"
   }
   guardians:  {
+    pubkey:  "0xF678Daf4b7f2789AA88A081618Aa966D6a39e064"
+    name:    "Staked"
+  }
+  guardians:  {
     pubkey:  "0x8cF31021838A8B3fFA43a71a50609877846f9E6d"
     name:    "Staking Facilities"
   }
