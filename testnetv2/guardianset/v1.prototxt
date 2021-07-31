@@ -64,7 +64,12 @@ guardian_set: {
     name:    "Chorus One"
   }
   guardians: {
+    pubkey:  "0xcc3766a03e4faec44Bda7a46D9Ea2A9D124e9Bf8"
+    name:    "Everstake"
+  }
+  guardians: {
     pubkey:  "0x841f499Ba89a6a8E9dD273BAd82Beb175094E5d7"
     name:    "HashQuark"
   }
 }
+
