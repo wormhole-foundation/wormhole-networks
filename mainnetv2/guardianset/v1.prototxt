@@ -7,4 +7,9 @@ guardian_set: {
     pubkey:  "0x58CC3AE5C097b213cE3c81979e1B9f9570746AA5"
     name:    "Certus One"
   }
+  
+    guardians:  {
+    pubkey:  "0x11b39756C042441BE6D8650b69b54EbE715E2343"
+    name:    "HashQuark"
+  }
 }
