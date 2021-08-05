@@ -30,9 +30,9 @@ guardian_set: {
   guardians:  {
     pubkey:  "0x54Ce5B4D348fb74B958e8966e2ec3dBd4958a7cd"
     name:    "Chainlayer"
-  }  
-}
-guardians:  {
+  }
+  guardians:  {
     pubkey:  "0xeB5F7389Fa26941519f0863349C223b73a6DDEE7"
     name:    "DokiaCapital"
-  }  
+  }
+}
