@@ -7,4 +7,8 @@ guardian_set: {
     pubkey:  "0x58CC3AE5C097b213cE3c81979e1B9f9570746AA5"
     name:    "Certus One"
   }
+  guardians:  {
+    pubkey:  "0x8C82B2fd82FaeD2711d59AF0F2499D16e726f6b2"
+    name:    "Inotel"
+  }
 }
