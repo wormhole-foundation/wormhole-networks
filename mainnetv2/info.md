@@ -59,7 +59,7 @@ User=wormhole
 Group=wormhole
 ExecStart=/opt/wormhole/wormhole/build/bin/guardiand bridge \
     --bootstrap "/dns4/wormhole-mainnet-v2-bootstrap.certus.one/udp/8999/quic/p2p/12D3KooWL6xoqY8yU2xR2K6cP6jix4LnGSrRh94HCKiK371qUFeU" \
-    --network "/wormhole/testnet/2" \
+    --network "/wormhole/mainnet/2" \
     --ethContract "0x98f3c9e6E3fAce36bAAd05FE09d375Ef1464288B" \
     --bscContract "0x98f3c9e6E3fAce36bAAd05FE09d375Ef1464288B" \
     --solanaBridgeAddress "worm2ZoG2kUd4vFXhvjh93UUH596ayRfgQ2MgjNMTth" \
