@@ -10,3 +10,4 @@ This repository contains launch, governance and other information about public W
 ## Wormhole v2
 
 - [Testnet v2](testnetv2/info.md)
+- [Mainnet v2](mainnetv2/info.md)

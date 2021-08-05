@@ -1,0 +1,10 @@
+# do not modify timestamp
+timestamp:  1628094930
+
+# Add your mainnet v2 nodes here. A maximum of 19 nodes can be specified!
+guardian_set: {
+  guardians:  {
+    pubkey:  "0x58CC3AE5C097b213cE3c81979e1B9f9570746AA5"
+    name:    "Certus One"
+  }
+}
