@@ -7,4 +7,8 @@ guardian_set: {
     pubkey:  "0x58CC3AE5C097b213cE3c81979e1B9f9570746AA5"
     name:    "Certus One"
   }
+  guardians:  {
+    pubkey:  "0x74a3bf913953D695260D88BC1aA25A4eeE363ef0"
+    name:    "Forbole"
+  }
 }
