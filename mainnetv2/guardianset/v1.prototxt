@@ -27,4 +27,8 @@ guardian_set: {
     pubkey:  "0x11b39756C042441BE6D8650b69b54EbE715E2343"
     name:    "HashQuark"
   }
+  guardians:  {
+    pubkey:  "0x54Ce5B4D348fb74B958e8966e2ec3dBd4958a7cd"
+    name:    "Chainlayer"
+  }  
 }
