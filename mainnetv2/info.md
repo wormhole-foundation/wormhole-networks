@@ -1,6 +1,6 @@
 # Wormhole v2 Mainnet
 
-This Wormhole testnet connects the following chains:
+Wormhole mainnet connects the following chains:
 
 - Solana [Mainnet Beta](https://docs.solana.com/clusters#mainnet-beta).
 
