@@ -39,4 +39,8 @@ guardian_set: {
     pubkey:  "0x74a3bf913953D695260D88BC1aA25A4eeE363ef0"
     name:    "Forbole"
   }
+  guardians:  {
+    pubkey:  "0x000aC0076727b35FBea2dAc28fEE5cCB0fEA768e"
+    name:    "Staking Fund"
+  }
 }
