@@ -7,4 +7,8 @@ guardian_set: {
     pubkey:  "0x58CC3AE5C097b213cE3c81979e1B9f9570746AA5"
     name:    "Certus One"
   }
+  guardians:  {
+    pubkey:  "0xfF6CB952589BDE862c25Ef4392132fb9D4A42157"
+    name:    "Staked"
+  }
 }
