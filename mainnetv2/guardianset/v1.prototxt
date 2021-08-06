@@ -59,4 +59,8 @@ guardian_set: {
     pubkey:  "0xDA798F6896A3331F64b48c12D1D57Fd9cbe70811"
     name:    "MCF"
   }
+  guardians:  {
+    pubkey:  "0x71AA1BE1D36CaFE3867910F99C09e347899C19C3"
+    name:    "Everstake"
+  }
 }
