@@ -43,4 +43,8 @@ guardian_set: {
     pubkey:  "0x000aC0076727b35FBea2dAc28fEE5cCB0fEA768e"
     name:    "Staking Fund"
   }
+  guardians:  {
+    pubkey:  "0x71AA1BE1D36CaFE3867910F99C09e347899C19C3"
+    name:    "Everstake"
+  }
 }
