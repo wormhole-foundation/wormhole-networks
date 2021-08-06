@@ -43,4 +43,8 @@ guardian_set: {
     pubkey:  "0x000aC0076727b35FBea2dAc28fEE5cCB0fEA768e"
     name:    "Staking Fund"
   }
+  guardians:  {
+    pubkey:  "0xDA798F6896A3331F64b48c12D1D57Fd9cbe70811"
+    name:    "MCF"
+  }
 }
