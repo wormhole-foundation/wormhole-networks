@@ -63,4 +63,8 @@ guardian_set: {
     pubkey:  "0x71AA1BE1D36CaFE3867910F99C09e347899C19C3"
     name:    "Everstake"
   }
+  guardians: {
+    pubkey:  "0x8192b6E7387CCd768277c17DAb1b7a5027c0b3Cf"
+    name:    "Chorus One"
+   }
 }
