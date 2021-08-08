@@ -43,10 +43,9 @@ guardian_set: {
     pubkey:  "0x000aC0076727b35FBea2dAc28fEE5cCB0fEA768e"
     name:    "Staking Fund"
   }
-
   guardians: {
-    pubkey: "0xAF45Ced136b9D9e24903464AE889F5C8a723FC14"
-    name:   "MoonletWallet"
+    pubkey:  "0xAF45Ced136b9D9e24903464AE889F5C8a723FC14"
+    name:    "MoonletWallet"
   }
   guardians:  {
     pubkey:  "0xf93124b7c738843CBB89E864c862c38cddCccF95"
