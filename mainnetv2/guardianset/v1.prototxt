@@ -43,6 +43,7 @@ guardian_set: {
     pubkey:  "0x000aC0076727b35FBea2dAc28fEE5cCB0fEA768e"
     name:    "Staking Fund"
   }
+
   guardians: {
     pubkey: "0xAF45Ced136b9D9e24903464AE889F5C8a723FC14"
     name:   "MoonletWallet"
@@ -67,4 +68,8 @@ guardian_set: {
     pubkey:  "0x8192b6E7387CCd768277c17DAb1b7a5027c0b3Cf"
     name:    "Chorus One"
    }
+  guardians: {
+    pubkey:  "0x178e21ad2E77AE06711549CFBB1f9c7a9d8096e8"
+    name:    "Syncnode"
+  }
 }
