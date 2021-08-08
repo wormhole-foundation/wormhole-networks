@@ -75,5 +75,8 @@ guardian_set: {
     pubkey:  "0xf5F2b82576e6CA17965dee853d08bbB471FA2433"
     name:    "P2P.ORG Validator"
   }
+  guardians: {
+    pubkey:  "0x2bC2B1204599D4cA0d4Dde4a658a42c4dD13103a"
+    name:    "Triton"
+  }
 }
-
