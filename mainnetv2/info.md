@@ -31,9 +31,25 @@ Connected chain contracts:
 | Binance Smart Chain (Bridge)  | [`0x98f3c9e6E3fAce36bAAd05FE09d375Ef1464288B`](https://bscscan.com/address/0x98f3c9e6E3fAce36bAAd05FE09d375Ef1464288B)   |
 | Binance Smart Chain (Impl)    | [`0x736d2a394f7810c17b3c6fed017d5bc7d60c077d`](https://bscscan.com/address/0x736d2a394f7810c17b3c6fed017d5bc7d60c077d)   |
 | Solana Mainnet                | [`worm2ZoG2kUd4vFXhvjh93UUH596ayRfgQ2MgjNMTth`](https://explorer.solana.com/address/worm2ZoG2kUd4vFXhvjh93UUH596ayRfgQ2MgjNMTth) |
+| Terra Columbus-4              | [`terra1fdhpw5s2t20lt60d0k3zkk262fcam7ummh2egf`](https://finder.terra.money/columbus-4/address/terra1fdhpw5s2t20lt60d0k3zkk262fcam7ummh2egf) |
 
-The Terra deployment is still in progress. Specify `--terraContract "pending"` in the meantime - the Terra
-watcher will fail, but all other chains will work.
+Eth and BSC use the same deployer key, leading to identical addresses. This key has no privileges.
+
+## Terra Multisig
+
+Columbus-4 does not allow contracts to upgrade themselves. Therefore, the Columbus-4 contract has been deployed
+using a multisig wallet:
+
+| Holder         | Key                                                                            |
+|----------------|--------------------------------------------------------------------------------|
+| Certus One     | `terrapub1addwnpepq2sakzkw3dz427pj9rudtvdjmpjs7k3cah6afhwarqdtp630tt50ghak5xd` |
+| Terraform Labs | `terrapub1addwnpepqtlu2m33tfqgaglayzp2dnhv6s8994qcvuqtv5t3jsegrt58dt39jn5mt8v` |
+| P2P Validator  | `terrapub1addwnpepqtmgahrsyw6t7d48zr7yxml4ydy8mjp67tkxsdhexf7fy0tkgeez204um3y` |
+
+Resulting wallet: `terra1xcp70wju9rsdh466y9g6a3c8shhuggdqmq8987`
+
+Once Terra was upgraded to Columbus-5, this multisig wallet will be used to redeploy the Wormhole contract.
+After the upgrade, the contract will be governed by the guardian set, eliminating the need for the multisig wallet.
 
 ## Guardian set
 
@@ -63,7 +79,7 @@ ExecStart=/opt/wormhole/wormhole/build/bin/guardiand bridge \
     --ethContract "0x98f3c9e6E3fAce36bAAd05FE09d375Ef1464288B" \
     --bscContract "0x98f3c9e6E3fAce36bAAd05FE09d375Ef1464288B" \
     --solanaBridgeAddress "worm2ZoG2kUd4vFXhvjh93UUH596ayRfgQ2MgjNMTth" \
-    --terraContract "pending" \
+    --terraContract "terra1fdhpw5s2t20lt60d0k3zkk262fcam7ummh2egf" \
     --adminSocket /run/guardiand/admin.socket \
     --dataDir /opt/wormhole/data \
     --terraChainID "columbus-4" \
