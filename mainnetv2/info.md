@@ -53,8 +53,7 @@ After the upgrade, the contract will be governed by the guardian set, eliminatin
 
 ## Guardian set
 
-Current generation: **0**, containing only the Certus One bootstrap node with the
-address `0x58CC3AE5C097b213cE3c81979e1B9f9570746AA5`.
+Current generation: **1**.
 
 See [v1.prototext](guardianset/v1.prototxt) for the first guardian set update that will be executed once everyone's
 node on the network is live.
