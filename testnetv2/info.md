@@ -37,7 +37,7 @@ Gossip network name:
 
 Gossip bootstrap node:
 
-    /dns4/wormhole-testnet-v2-bootstrap.certus.one/udp/8999/quic/p2p/12D3KooWRzE71KXnZ8NF3N1Za6koiQh9CwzuyFnuisNHg6tB8RKV
+    /dns4/wormhole-testnet-v2-bootstrap.certus.one/udp/8999/quic/p2p/12D3KooWBY9ty9CXLBXGQzMuqkziLntsVcyz4pk1zWaJRvJn6Mmt
 
 Connected chain contracts:
 
@@ -73,7 +73,7 @@ After=network.target
 User=wormhole
 Group=wormhole
 ExecStart=/opt/wormhole/wormhole/build/bin/guardiand bridge \
-    --bootstrap "/dns4/wormhole-testnet-v2-bootstrap.certus.one/udp/8999/quic/p2p/12D3KooWRzE71KXnZ8NF3N1Za6koiQh9CwzuyFnuisNHg6tB8RKV" \
+    --bootstrap "/dns4/wormhole-testnet-v2-bootstrap.certus.one/udp/8999/quic/p2p/12D3KooWBY9ty9CXLBXGQzMuqkziLntsVcyz4pk1zWaJRvJn6Mmt" \
     --network "/wormhole/testnet/2" \
     --ethContract "0x44F3e7c20850B3B5f3031114726A9240911D912a" \
     --bscContract "0x47e6ab734c7ed257716bcc177fb1c35738eac6b8" \
