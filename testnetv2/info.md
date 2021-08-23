@@ -47,7 +47,7 @@ Connected chain contracts:
 | Ethereum Goerli (Impl)   | [`0x78563ACB348209743F3b0968b91eC7563f2fB535`](https://goerli.etherscan.io/address/0x78563ACB348209743F3b0968b91eC7563f2fB535) |
 | Binance Smart Chain (Bridge)  | [`0x47e6ab734c7ed257716bcc177fb1c35738eac6b8`](https://bscscan.com/address/0x47e6ab734c7ed257716bcc177fb1c35738eac6b8) |
 | Binance Smart Chain (Token)   | [`0x5ac333a45646fa91626e0b7d3c449e4e7528a5b9`](https://bscscan.com/address/0x5ac333a45646fa91626e0b7d3c449e4e7528a5b9) |
-| Solana Tour de Sol        | [`H3SjyXYezgWj1ktCrazLkD8ydj9gzmEi4w9zRCXg2G4R`](https://explorer.solana.com/address/H3SjyXYezgWj1ktCrazLkD8ydj9gzmEi4w9zRCXg2G4R?cluster=testnet) |
+| Solana Tour de Sol        | [`Brdguy7BmNB4qwEbcqqMbyV5CyJd2sxQNUn6NEpMSsUb`](https://explorer.solana.com/address/Brdguy7BmNB4qwEbcqqMbyV5CyJd2sxQNUn6NEpMSsUb?cluster=testnet) |
 | Terra Tequila-0004        | [`terra1whed88ncakawrnwgq7vyqly5elftw3wvnjjrps`](https://finder.terra.money/tequila-0004/address/terra1whed88ncakawrnwgq7vyqly5elftw3wvnjjrps) |
 
 ## Guardian set
@@ -77,7 +77,7 @@ ExecStart=/opt/wormhole/wormhole/build/bin/guardiand bridge \
     --network "/wormhole/testnet/2" \
     --ethContract "0x44F3e7c20850B3B5f3031114726A9240911D912a" \
     --bscContract "0x47e6ab734c7ed257716bcc177fb1c35738eac6b8" \
-    --solanaBridgeAddress "H3SjyXYezgWj1ktCrazLkD8ydj9gzmEi4w9zRCXg2G4R" \
+    --solanaBridgeAddress "Brdguy7BmNB4qwEbcqqMbyV5CyJd2sxQNUn6NEpMSsUb" \
     --terraContract "terra1whed88ncakawrnwgq7vyqly5elftw3wvnjjrps" \
     --adminSocket /run/guardiand/admin.socket \
     --dataDir /opt/wormhole/data \
