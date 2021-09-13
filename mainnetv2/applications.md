@@ -1,6 +1,6 @@
 # Wormhole v2 Mainnet
 
-This document lists mainnet deployments of Wormhole applications deployed from the certusone/wormhole repository.
+This document lists mainnet deployments of Wormhole-based applications deployed from the certusone/wormhole repository.
 
 ## Token Bridge
 
