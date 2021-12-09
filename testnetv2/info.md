@@ -33,7 +33,7 @@ sign them and broadcast the signature to the network. Here's the main operationa
 
 Gossip network name:
 
-    /wormhole/testnet/2
+    /wormhole/testnet/2/1
 
 Gossip bootstrap node:
 
