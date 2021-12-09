@@ -39,6 +39,10 @@ Gossip bootstrap node:
 
     /dns4/wormhole-testnet-v2-bootstrap.certus.one/udp/8999/quic/p2p/12D3KooWBY9ty9CXLBXGQzMuqkziLntsVcyz4pk1zWaJRvJn6Mmt
 
+gRPC-web/REST API:
+
+    https://wormhole-v2-testnet-api.certus.one
+
 Connected chain contracts:
 
 | Network                       | Wormhole core contract address                 |
