@@ -43,17 +43,6 @@ gRPC-web/REST API:
 
     https://wormhole-v2-testnet-api.certus.one
 
-Connected chain contracts:
-
-| Network                       | Wormhole core contract address                 |
-|-------------------------------|------------------------------------------------|
-| Ethereum Goerli (Core)  | [`0x44F3e7c20850B3B5f3031114726A9240911D912a`](https://goerli.etherscan.io/address/0x44F3e7c20850B3B5f3031114726A9240911D912a) |
-| Ethereum Goerli (Impl)   | [`0x78563ACB348209743F3b0968b91eC7563f2fB535`](https://goerli.etherscan.io/address/0x78563ACB348209743F3b0968b91eC7563f2fB535) |
-| Binance Smart Chain (Core)  | [`0x47e6ab734c7ed257716bcc177fb1c35738eac6b8`](https://bscscan.com/address/0x47e6ab734c7ed257716bcc177fb1c35738eac6b8) |
-| Binance Smart Chain (Token)   | [`0x5ac333a45646fa91626e0b7d3c449e4e7528a5b9`](https://bscscan.com/address/0x5ac333a45646fa91626e0b7d3c449e4e7528a5b9) |
-| Solana Tour de Sol        | [`Brdguy7BmNB4qwEbcqqMbyV5CyJd2sxQNUn6NEpMSsUb`](https://explorer.solana.com/address/Brdguy7BmNB4qwEbcqqMbyV5CyJd2sxQNUn6NEpMSsUb?cluster=testnet) |
-| Terra Tequila-0004        | [`terra1whed88ncakawrnwgq7vyqly5elftw3wvnjjrps`](https://finder.terra.money/tequila-0004/address/terra1whed88ncakawrnwgq7vyqly5elftw3wvnjjrps) |
-
 ## Guardian set
 
 Current generation: **0**, containing only the Certus One bootstrap node with the
