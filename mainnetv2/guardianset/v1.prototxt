@@ -79,4 +79,8 @@ guardian_set: {
     pubkey:  "0x6FbEBc898F403E4773E95feB15E80C9A99c8348d"
     name:    "Staking Facilities"
   }
+  guardians: {
+    pubkey:  "0x66B9590e1c41e0B226937bf9217D1d67Fd4E91F5"
+    name:    "ZUBR"
+  }
 }
