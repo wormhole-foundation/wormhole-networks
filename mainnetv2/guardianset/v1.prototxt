@@ -81,6 +81,6 @@ guardian_set: {
   }
   guardians: {
     pubkey:  "0x66B9590e1c41e0B226937bf9217D1d67Fd4E91F5"
-    name:    "ZUBR"
+    name:    "Zubr/FTX"
   }
 }
