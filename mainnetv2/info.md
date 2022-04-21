@@ -39,7 +39,7 @@ Eth and BSC use the same deployer key, leading to identical addresses. This key 
 
 ## Guardian set
 
-Current generation: **1** (see [v1.prototext](guardianset/v1.prototxt)).
+Current generation: **2** (see [v2.prototext](guardianset/v2.prototxt)).
 
 ## Example command line options
 
